@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DynamicSunTest
+build_property.RootNamespace = DynamicSunTest
+build_property.ProjectDir = C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/WeatherHome/WeatherHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhdGhlckhvbWVcV2VhdGhlckhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/WeatherUpload/WeatherUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhdGhlclVwbG9hZFxXZWF0aGVyVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/WeatherView/WeatherView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhdGhlclZpZXdcV2VhdGhlclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/wwwroot/WeatherHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxXZWF0aGVySG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/wwwroot/WeatherUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxXZWF0aGVyVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/wwwroot/WeatherView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxXZWF0aGVyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EVRAZ/source/repos/koliazhern/DynamicSunTest/DynamicSunTest/DynamicSunTest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j4jr8ni26e
