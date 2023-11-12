@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lp33X5wnBGQULH9f3jUd3d1iuUUuBUpXp06HrVdxRao=",
+  "Hash": "Z84mWeGAwILKkTLL7q6VRxvnGwy5xnVCCC4fI/dDWVU=",
   "Source": "DynamicSunTest",
   "BasePath": "_content/DynamicSunTest",
   "Mode": "Default",
@@ -1717,6 +1717,23 @@
       "OriginalItemSpec": "wwwroot\\js\\swiper.min.js"
     },
     {
+      "Identity": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\js\\upload.js",
+      "SourceId": "DynamicSunTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\",
+      "BasePath": "_content/DynamicSunTest",
+      "RelativePath": "js/upload.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\upload.js"
+    },
+    {
       "Identity": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\js\\vendor\\._bootstrap.min.js",
       "SourceId": "DynamicSunTest",
       "SourceType": "Discovered",
@@ -2839,55 +2856,21 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\WeatherHome.cshtml",
+      "Identity": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\uploads\\moskva_2010.xlsx",
       "SourceId": "DynamicSunTest",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\",
       "BasePath": "_content/DynamicSunTest",
-      "RelativePath": "WeatherHome.cshtml",
-      "AssetKind": "Build",
+      "RelativePath": "uploads/moskva_2010.xlsx",
+      "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "wwwroot\\WeatherHome.cshtml"
-    },
-    {
-      "Identity": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\WeatherUpload.cshtml",
-      "SourceId": "DynamicSunTest",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\",
-      "BasePath": "_content/DynamicSunTest",
-      "RelativePath": "WeatherUpload.cshtml",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "wwwroot\\WeatherUpload.cshtml"
-    },
-    {
-      "Identity": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\WeatherView.cshtml",
-      "SourceId": "DynamicSunTest",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\",
-      "BasePath": "_content/DynamicSunTest",
-      "RelativePath": "WeatherView.cshtml",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "wwwroot\\WeatherView.cshtml"
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\moskva_2010.xlsx"
     }
   ]
 }

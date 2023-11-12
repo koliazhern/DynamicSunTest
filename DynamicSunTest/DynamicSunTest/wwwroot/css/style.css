@@ -918,10 +918,11 @@ Nav Menu style
 Home Section style
 ==================*/
 
-.home{
+.home {
     background: url(../images/homebg.png) no-repeat top center;
     background-size: cover;
     position: relative;
+    height: 100vh;
 }
 .main_home{
     overflow: hidden;

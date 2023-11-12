@@ -397,6 +397,10 @@
       "PackagePath": "staticwebassets\\js\\swiper.min.js"
     },
     {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\js\\upload.js",
+      "PackagePath": "staticwebassets\\js\\upload.js"
+    },
+    {
       "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\js\\vendor\\._bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\._bootstrap.min.js"
     },
@@ -659,6 +663,10 @@
     {
       "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\uploads\\moskva_2010.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\moskva_2010.xlsx"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DynamicSunTest.Microsoft.AspNetCore.StaticWebAssets.props",
