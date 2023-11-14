@@ -92,3 +92,11 @@ C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunT
 C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\obj\Debug\net6.0\DynamicSunTest.pdb
 C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\obj\Debug\net6.0\DynamicSunTest.genruntimeconfig.cache
 C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\obj\Debug\net6.0\ref\DynamicSunTest.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\EVRAZ\source\repos\koliazhern\DynamicSunTest\DynamicSunTest\DynamicSunTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

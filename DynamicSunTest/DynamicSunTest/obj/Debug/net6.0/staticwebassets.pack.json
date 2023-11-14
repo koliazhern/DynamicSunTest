@@ -89,6 +89,10 @@
       "PackagePath": "staticwebassets\\css\\swiper.min.css"
     },
     {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\css\\weatherData.css",
+      "PackagePath": "staticwebassets\\css\\weatherData.css"
+    },
+    {
       "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\css\\weatherView.css",
       "PackagePath": "staticwebassets\\css\\weatherView.css"
     },
@@ -433,6 +437,10 @@
       "PackagePath": "staticwebassets\\js\\vendor\\npm.js"
     },
     {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\js\\weatherData.js",
+      "PackagePath": "staticwebassets\\js\\weatherData.js"
+    },
+    {
       "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\js\\weatherView.js",
       "PackagePath": "staticwebassets\\js\\weatherView.js"
     },
@@ -667,6 +675,18 @@
     {
       "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\uploads\\moskva_2010.xlsx",
       "PackagePath": "staticwebassets\\uploads\\moskva_2010.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\uploads\\moskva_2011.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\moskva_2011.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\uploads\\moskva_2012.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\moskva_2012.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\EVRAZ\\source\\repos\\koliazhern\\DynamicSunTest\\DynamicSunTest\\DynamicSunTest\\wwwroot\\uploads\\moskva_2013.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\moskva_2013.xlsx"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DynamicSunTest.Microsoft.AspNetCore.StaticWebAssets.props",

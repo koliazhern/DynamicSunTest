@@ -1,0 +1,114 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Weather Data</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="~/css/swiper.min.css">
+    <link rel="stylesheet" href="~/css/animate.css">
+    <link rel="stylesheet" href="~/css/iconfont.css">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/bootsnav.css">
+    <link rel="stylesheet" href="~/css/weatherData.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/responsive.css" />
+    <script src="~/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+</head>
+<body data-spy="scroll" data-target=".navbar-collapse">
+
+
+    <div class="culmn pageWrapper">
+        <nav class="navbar navbar-default bootsnav navbar-fixed white no-background">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="#brand">
+                        <img src="~/images/logo.png" class="logo logo-display" alt="">
+                        <img src="~/images/footer-logo.png" class="logo logo-scrolled" alt="">
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-center">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/WeatherView">View Weather</a></li>
+                        <li><a href="/WeatherUpload">Upload archives</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <main class="table-main">
+            <div class="table-wrapper">
+                <div class="container">
+                    <h2>Weather Data</h2>
+                    <table id="weatherTable" class="display">
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Temperature</th>
+                                <th>Humidity</th>
+                                <th>DewPoint</th>
+                                <th>AtmospherePressure</th>
+                                <th>WindDirection</th>
+                                <th>WindSpeed</th>
+                                <th>Cloudy</th>
+                                <th>CloudBase</th>
+                                <th>WeatherConditions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+
+        <footer id="footer" class="footer bg-black">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <nav class="navbar navbar-default bootsnav footer-menu no-background">
+                            <div class="container">
+                                <div class="collapse navbar-collapse" id="navbar-footer">
+                                    <ul class="nav navbar-nav navbar-center">
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="/WeatherView">View Weather</a></li>
+                                        <li><a href="/WeatherUpload">Upload archives</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    
+<script src="~/js/vendor/jquery-1.11.2.min.js"></script>
+    <script src="~/js/vendor/bootstrap.min.js"></script>
+
+    <script src="~/js/jquery.magnific-popup.js"></script>
+    <script src="~/js/jquery.easing.1.3.js"></script>
+    <script src="~/js/swiper.min.js"></script>
+    <script src="~/js/jquery.collapse.js"></script>
+    <script src="~/js/bootsnav.js"></script>
+
+
+
+    <script src="~/js/plugins.js"></script>
+    <script src="~/js/main.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+    <script src="~/js/weatherData.js"></script>
+</body>
+</html>

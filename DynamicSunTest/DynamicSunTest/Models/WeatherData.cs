@@ -2,6 +2,7 @@
 {
     public sealed class WeatherData
     {
+        public Guid Id { get; set; }
         public DateTime Date { get; set; }
 
         public DateTime Time { get; set; }

@@ -4,10 +4,19 @@ using DynamicSunTest.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace DynamicSunTest.Controllers
 {
     public class WeatherUploadController : Controller
     {
+        private readonly WeatherDbContext _context;
+        private readonly WeatherUploadService _uploadService;
+        public WeatherUploadController(WeatherDbContext context)
+        {
+            _context = context;
+            _uploadService = new WeatherUploadService(context);
+        }
+
         [Route("/WeatherUpload")]
         public ActionResult WeatherUpload()
         {
@@ -32,17 +41,19 @@ namespace DynamicSunTest.Controllers
                         // Сохраняем файл на сервере
                         string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/uploads", fileName);
 
-                        using (var stream = new FileStream(path, FileMode.Create))
+                        if (!System.IO.File.Exists(path))
                         {
-                            file.CopyTo(stream);
-                        }
+                            using (var stream = new FileStream(path, FileMode.Create))
+                            {
+                                file.CopyTo(stream);
+                            }
 
-                        var service = new WeatherUploadService().ParseWeatherXls(path);
-                        var j = 1;
+                            var weatherData = _uploadService.ParseWeatherXls(path);
+                            _uploadService.UploadWeatherToDb(weatherData);
+                        }
                     }
                     catch (Exception ex)
                     {
-                        // Обработка ошибок при сохранении файла
                         return Json("Ошибка при загрузке файла: " + ex.Message);
                     }
                 }
